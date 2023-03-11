@@ -1,5 +1,5 @@
 # Connect4 game
 </br>
 
-## exe file>
-find in the 
+## playable file
+find in the x64/debug(x64/debug) folder
